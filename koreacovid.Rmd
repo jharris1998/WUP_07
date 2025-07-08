@@ -68,8 +68,16 @@ when looking at the numbers 64 out of the 100% males are dead and 36 out of 100 
 
 ## Inferential results 
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
 
+
+
+based off statistics the mnales are dying more than the females percentage wise.
 
 ## Conclusions
 
