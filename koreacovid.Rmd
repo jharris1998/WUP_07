@@ -77,7 +77,7 @@ fisher.test(table1)
 
 
 
-based off statistics the mnales are dying more than the females percentage wise.
+based off statistics of covid the males are dying more than the females percentage wise.
 
 ## Conclusions
-
+By percent there were more females in the alive column than males. Also percentage wise males led in deaths. This shows that the death toll was not equivalent between males and females.  
